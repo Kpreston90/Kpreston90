@@ -4,8 +4,9 @@ Product lead. I decide what gets built, specify it precisely enough to be built,
 and find the bug in production before a customer does.
 
 Most recently: a property management system that replaced a commercial SaaS
-product at a pet-care business in Tulsa — and the books, the bank feed and the
-front-desk workflow that go with it.
+product at [Metro Mutts](https://www.metromutts.com), a dog daycare and boarding
+business in Tulsa — and the books, the bank feed and the front-desk workflow
+that go with it. I'm a partner there.
 
 📍 Tulsa / Taos · ✉️ kyle.hawari@gmail.com
 
@@ -13,12 +14,12 @@ front-desk workflow that go with it.
 
 ## Alpha — replacing a commercial PMS, in production
 
-A pet-care business runs on a product called Gingr: bookings, kennels, check-in,
+Metro Mutts runs on a product called Gingr: bookings, kennels, check-in,
 invoicing, customer records. Alpha replaces it, and runs beside it today while
 the front desk moves over.
 
 **Four months. ~680 pull requests. 5,689 tests.** Live, against a real building
-with 19 boarding kennels and 80 daycare places and around 50 dogs a day.
+— 19 boarding kennels, 80 daycare places, around 50 dogs a day.
 
 What it does:
 
